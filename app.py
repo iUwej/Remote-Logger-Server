@@ -8,6 +8,8 @@ from flask import jsonify
 from flask_redis import FlaskRedis 
 
 app = Flask(__name__)
+
+#provide the redis configuration in the app configs to use this
 redis_store = FlaskRedis(app)
 
 @app.route('/')
