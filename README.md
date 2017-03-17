@@ -1,2 +1,2 @@
 # Remote-Logger-Server
-A  remote logger server.Provides endpoints for pushing and retrieving logs by remote clients
+A  remote logging server.Provides endpoints for pushing and retrieving logs by remote clients
